@@ -1,0 +1,4 @@
+tg
+==
+
+Timed Log.
